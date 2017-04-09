@@ -1,0 +1,31 @@
+{
+  "name": "hexo-amazon-jp-link",
+  "version": "0.0.1",
+  "description": "Generate a link for amazon.co.jp",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint *.js",
+    "eslint:fix": "eslint *.js --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morizyun/hexo-amazon-jp-link.git"
+  },
+  "keywords": [
+    "hexo",
+    "plugin"
+  ],
+  "author": "morizyun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/morizyun/hexo-amazon-jp-link/issues"
+  },
+  "homepage": "https://github.com/morizyun/hexo-amazon-jp-link#readme",
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.10.3"
+  }
+}
