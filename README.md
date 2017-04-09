@@ -1,7 +1,7 @@
 hexo-amazon-jp-link
 ==============
 
-Generate a link for amazon.co.jp.
+Generate a link for amazon.co.jp for hexo.
 
 ### Installation
 
@@ -16,7 +16,7 @@ npm install hexo-amazon-jp-link --save
 #### Generate Link tag
 
 ```md
-{% AmazonJpLink B01N59VNQY johndue-22 macOS Sierra" %}
+{% AmazonJpLink B01N59VNQY johndue-22 macOS Sierra %}
 ```
 
 Generate the following html:
