@@ -1,6 +1,6 @@
 {
   "name": "hexo-amazon-jp-link",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Generate a link for amazon.co.jp",
   "main": "index.js",
   "scripts": {
